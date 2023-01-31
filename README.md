@@ -26,11 +26,5 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc2.PNG">
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
+<img src="https://github.com/apatidar0/Deploy_model_using_flask_on_aws/blob/main/sc1.PNG">
+<img src="https://github.com/apatidar0/Deploy_model_using_flask_on_aws/blob/main/sc2.PNG">
